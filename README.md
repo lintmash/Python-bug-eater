@@ -26,9 +26,9 @@ N/A (will upload)
 
 
 ### Things to do ###
-- score keeper
+- score keeper 
 - Generate food at random positions
 - Make snake appear(doesn't have to move for now)
 
 ### Known issues ###
-- N/A (will update)
+- points are not visable on the screen
