@@ -7,15 +7,14 @@ this will be my first snake game using python and the goal is to do it only usin
 
 ### Things to do ###
 - score keeper
-~~ Generate food at random positions ~~
-~~ Make snake appear(doesn't have to move for now) ~~
+~~Generate food at random positions~~
+~~Make snake appear(doesn't have to move for now)~~
 - Add movement
 - Add point system
 - Add Algorithm to play the game
 
 ### Visual ###
-[basic]: img/basic.png
-![basic][basic]
+- Pending
 
 
 
@@ -30,5 +29,5 @@ this will be my first snake game using python and the goal is to do it only usin
 
 
 ### Known issues ###
-~~ Points not visable on the screen ~~
+~~Points not visable on the screen~~
 - N/A (will update)
